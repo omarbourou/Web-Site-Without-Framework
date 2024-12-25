@@ -799,7 +799,9 @@ footer .first-section .images i:nth-child(4):hover{
 
 footer .second-section{
   display: flex;
-  gap: 40px;
+      gap: 100px;
+      flex: 1;
+      justify-content: flex-end;
 }
 
 footer .second-section h4{
